@@ -12,7 +12,7 @@ The resulting website is pictured below. It is a landing page for all UFO sighti
 
 As can be seen below the data for UFO sighting can be filtered and searched for based on criteria. The following criteria are what can be specified for search parameters: Date, City, State, Country and Shape. 
 
-![Pic1]()
+![Pic1](https://github.com/msha789/UFOs/blob/c1ace30c5f9020a05dbaa83db9ae362b5a8c4a27/Screen%20Shot%202022-03-19%20at%2011.44.22%20AM.png)
 
 ## Summary 
 
