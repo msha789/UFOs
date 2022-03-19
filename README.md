@@ -8,7 +8,7 @@ This project required a built of a website through which various UFO sigthings c
 
 The resulting website is pictured below. It is a landing page for all UFO sightings for anyone interested to search and filter through to engage with various locations where a UFO was sighted. 
 
-![Pic1]()
+![Pic1](https://github.com/msha789/UFOs/blob/0fb99b9aff5bb9019949f7b861c07e4db8ea1233/Screen%20Shot%202022-03-19%20at%2011.44.10%20AM.png)
 
 As can be seen below the data for UFO sighting can be filtered and searched for based on criteria. The following criteria are what can be specified for search parameters: Date, City, State, Country and Shape. 
 
